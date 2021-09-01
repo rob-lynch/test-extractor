@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TestExtractor": {
+      "commandName": "Project",
+      "commandLineArgs": "..\\..\\..\\..\\TestExtractorTests\\bin\\Debug\\.netcoreapp,version=v3.1\\TestExtractorTests.dll"
+    }
+  }
+}
